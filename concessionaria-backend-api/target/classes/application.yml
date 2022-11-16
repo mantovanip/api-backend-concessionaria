@@ -9,6 +9,6 @@ spring:
       hibernate:
         dialect: org.hibernate.dialect.MySQL5InnoDBDialect
   datasource:
-    url: jdbc:mysql://localhost:3308/luiz
+    url: jdbc:mysql://localhost:3308/concessionaria-api
     password:
     username: root
