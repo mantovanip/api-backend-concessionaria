@@ -12,6 +12,10 @@ public class MarcaResponse {
         this.descricao = descricao;
     }
 
+    public MarcaResponse() {
+
+    }
+
     public Long getId() {
         return id;
     }
